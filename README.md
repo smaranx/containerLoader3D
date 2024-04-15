@@ -38,4 +38,3 @@ In the folder [Videos](https://github.com/jcpachon10/SICRepository/tree/main/Vid
 - [Irregular Paking](https://github.com/jcpachon10/SICRepository/blob/main/Videos/SICIrregularCargo.mp4) 
 
 
-cc
